@@ -28,5 +28,5 @@ class InsertionSort:
 if __name__ == "__main__":
     l=[5,7,9,3,2,1,2]
     z= ["o",1]
-    print(InsertionSort(k).sort())
+    print(InsertionSort(l).sort())
             
